@@ -68,13 +68,16 @@ Soy Desarrollador Full Stack. Soy un ingeniero de sistemas al que le encanta cre
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a><br>
   <a href="https://github.com/rrcyber" target="_blank">
-    <img src="https://img.shields.io/badge/github-gray?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://elblogden4p5t3r.us.tempcloudsite.com/" target="_blank">
-    <img src="https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.facebook.com/elblogden4p5t3r" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://t.me/elblogden4p5t3r" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
