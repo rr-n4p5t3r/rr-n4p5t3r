@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://pbs.twimg.com/profile_images/1623078184869670914/OyhV-InZ_400x400.jpg" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ricardo-rosero-533a8110/" target="_blank">
