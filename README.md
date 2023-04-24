@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://pbs.twimg.com/profile_images/1623078184869670914/OyhV-InZ_400x400.jpg" width="100"/>
+</div>
+
 ### Hi there 👋
 
 <!--
