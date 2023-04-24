@@ -25,7 +25,7 @@
 **rrcyber/rrcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a Full Stack Developer. I am a systems engineer who loves to create new things, learn at every opportunity and innovate with technology that is born daily. I am very interested in everything related to cybersecurity, backend and frontend application development. If I see that I can help others to solve any doubt they have in their projects, I will do it without any qualms, as long as I have the necessary knowledge to reach the required solution.
+### :man_technologist: About Me: I am a Full Stack Developer. I am a systems engineer who loves to create new things, learn at every opportunity and innovate with technology that is born daily. I am very interested in everything related to cybersecurity, backend and frontend application development. If I see that I can help others to solve any doubt they have in their projects, I will do it without any qualms, as long as I have the necessary knowledge to reach the required solution.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
