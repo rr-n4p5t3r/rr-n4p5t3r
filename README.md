@@ -19,16 +19,16 @@
   </a>
 </div>
 
-### Hi there 👋
+### Hola tu 👋
 
 <!--
 **rrcyber/rrcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### :man_technologist: About Me: ###
-I am a Full Stack Developer. I am a systems engineer who loves to create new things, learn at every opportunity and innovate with technology that is born daily. I am very interested in everything related to cybersecurity, backend and frontend application development. If I see that I can help others to solve any doubt they have in their projects, I will do it without any qualms, as long as I have the necessary knowledge to reach the required solution.
+### :man_technologist: Sobre mi: ###
+Soy Desarrollador Full Stack. Soy un ingeniero de sistemas al que le encanta crear cosas nuevas, aprender en cada oportunidad e innovar con la tecnología que nace día a día. Me interesa mucho todo lo relacionado con ciberseguridad, desarrollo de aplicaciones backend y frontend. Si veo que puedo ayudar a otros a resolver alguna duda que tengan en sus proyectos, lo haré sin reparos, siempre y cuando tenga los conocimientos necesarios para llegar a la solución requerida.
 
-### :hammer_and_wrench: Languages, Tools and Technologies: ###
+### :hammer_and_wrench: Lenguajes, herramientas y tecnologías: ###
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -52,7 +52,7 @@ I am a Full Stack Developer. I am a systems engineer who loves to create new thi
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
 </div>
 
-### :telescope: I’m currently working on: ###
+### :telescope: Actualmente estoy trabajando en: ###
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -67,6 +67,6 @@ I am a Full Stack Developer. I am a systems engineer who loves to create new thi
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats:
+### :fire: Mis aportes y experiencias:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rrcyber&theme=dark&background=000000)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrcyber&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
