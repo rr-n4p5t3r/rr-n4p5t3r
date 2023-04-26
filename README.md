@@ -75,10 +75,12 @@ Soy Desarrollador Full Stack. Soy un ingeniero de sistemas al que le encanta cre
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
   </a> <a href="https://t.me/elblogden4p5t3r" target="_blank">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
+  </a> <a href="https://api.whatsapp.com/send?phone=573017285406" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-### Apoya mi emprendimiento e invítame un café: ###
+### Invítame un café: ###
 <div id="badges">
   <a href="https://www.buymeacoffee.com/elblogden4p5t3r" target="_blank">
     <img src="https://img.shields.io/badge/buymeacoffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="LinkedIn Badge"/>
