@@ -68,17 +68,17 @@ Soy Desarrollador Full Stack. Soy un ingeniero de sistemas al que le encanta cre
   </a> <a href="https://twitter.com/rrosero2000" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> <a href="https://github.com/rrcyber" target="_blank">
-    <img src="https://img.shields.io/badge/github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a> <a href="https://elblogden4p5t3r.us.tempcloudsite.com/" target="_blank">
-    <img src="https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress Badge"/>
   </a> <a href="https://www.facebook.com/elblogden4p5t3r" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a> <a href="https://t.me/elblogden4p5t3r" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a> <a href="https://api.whatsapp.com/send?phone=573017285406" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a> </a> <a href="https://discord.gg/NMRP3twPJC" target="_blank">
-    <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>  
 </div>
 
