@@ -77,7 +77,7 @@ Soy Desarrollador Full Stack. Soy un ingeniero de sistemas al que le encanta cre
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a> <a href="https://api.whatsapp.com/send?phone=573017285406" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Twitter Badge"/>
-  </a> </a> <a href="[https://api.whatsapp.com/send?phone=573017285406](https://discord.gg/NMRP3twPJC)" target="_blank">
+  </a> </a> <a href="https://discord.gg/NMRP3twPJC" target="_blank">
     <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
   </a>  
 </div>
