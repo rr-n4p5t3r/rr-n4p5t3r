@@ -56,8 +56,7 @@ Soy Desarrollador Full Stack. Soy un ingeniero de sistemas al que le encanta cre
 
 ### :fire: Mis aportes y experiencias:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rrcyber)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrcyber)](https://github.com/anuraghazra/github-readme-stats) <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrcyber&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrcyber&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Encuéntrame en: ###
 <div id="badges">
