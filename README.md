@@ -65,7 +65,7 @@ Soy Desarrollador Full Stack. Soy un ingeniero de sistemas al que le encanta cre
   </a> <a href="https://www.youtube.com/channel/UCoHjxcF34Pw27htfdViM0Cg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> <a href="https://x.com/rrosero2000" target="_blank">
-    <img src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a> <a href="https://github.com/rrcyber" target="_blank">
     <img src="https://img.shields.io/badge/github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a> <a href="https://elblogden4p5t3r.us.tempcloudsite.com/" target="_blank">
