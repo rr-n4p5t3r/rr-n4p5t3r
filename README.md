@@ -55,8 +55,7 @@ Soy Desarrollador Full Stack. Soy un ingeniero de sistemas al que le encanta cre
 </div>
 
 ### :fire: Mis aportes y experiencias:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rr-n4p5t3r)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rr-n4p5t3r&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rr-n4p5t3r)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rr-n4p5t3r&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Encuéntrame en: ###
 <div id="badges">
