@@ -67,8 +67,8 @@ Soy Desarrollador Full Stack. Soy un ingeniero de sistemas al que le encanta cre
     <img src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a> <a href="https://github.com/rr-n4p5t3r" target="_blank">
     <img src="https://img.shields.io/badge/github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a> <a href="https://elblogden4p5t3r.us.tempcloudsite.com/" target="_blank">
-    <img src="https://img.shields.io/badge/blogger-black?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/>
+  </a> <a href="https://elblogden4p5t3r.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/blogger-black?style=for-the-badge&logo=blogger&logoColor=orange" alt="Blogger Badge"/>
   </a> <a href="https://www.facebook.com/elblogden4p5t3r" target="_blank">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a> <a href="https://t.me/elblogden4p5t3r" target="_blank">
