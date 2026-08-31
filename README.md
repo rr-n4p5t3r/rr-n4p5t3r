@@ -93,7 +93,5 @@ Soy Desarrollador Full Stack. Soy un ingeniero de sistemas al que le encanta cre
 
 ### Invítame un café: ###
 <div id="badges">
-  <a href="https://www.buymeacoffee.com/elblogden4p5t3r" target="_blank">
-    <img src="https://img.shields.io/badge/buymeacoffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'N2X725PR54');kofiwidget2.draw();</script> 
 </div>
