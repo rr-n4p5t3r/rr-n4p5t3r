@@ -72,7 +72,7 @@ Soy Desarrollador Full Stack. Soy un ingeniero de sistemas al que le encanta cre
 <div id="badges">
   <a href="https://www.linkedin.com/in/ricardo-rosero-533a8110/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> a href="https://github.com/rr-n4p5t3r" target="_blank">
+  </a> <a href="https://github.com/rr-n4p5t3r" target="_blank">
     <img src="https://img.shields.io/badge/github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a> <a href="https://api.whatsapp.com/send?phone=573017285406" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
